@@ -1,2 +1,2 @@
 # agrinho2025
-progeto do agrinho 2025
+projeto do agrinho 2025
